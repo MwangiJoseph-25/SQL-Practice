@@ -1,6 +1,4 @@
 # SQL Practice
-**Name:** Joseph-Mwangi
-**DATE:** 19/04/2026
 ## What this covers
 
 This repository contains SQL practice exercises covering various SQL concepts and functions. The assignment is divided into 6 main topics with practical examples.
